@@ -1,15 +1,15 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Luis Fernando
 =====================================================================================================================================
 
-I'am a Front end developer
+I'am a Data Analyst
 --------------------------
 
 I've been learning to code for the last 3 years. I consider myself self-taught and I do like challenges and the satisfaction when I achieve them. I am constantly involved in projects and I push myself to become a little better . i believe that good habits, perseverance and constancy are key to grow in this career
 
 * 🌍  I'm based in Toronto Canada
-* 🖥️  See my portfolio at [My portafolio](http://#)
+* 🖥️  See my portfolio at 
 * ✉️  You can contact me at [nanogomez.it@gmail.com](mailto:nanogomez.it@gmail.com )
-* 🚀  I'm currently working on [My portafolio](http://#)
+* 🚀  I'm currently working on [My portafolio](https://nanobit2019.github.io/Luis-Gomez-Portafolio-A/)
 * 🧠  I'm learning Java Script
 * 🤝  I'm open to collaborating on any kind of project
 * ⚡  I'am a coffeeholic , you do not tell anyone
