@@ -7,10 +7,10 @@ I'am a Data Analyst
 I've been learning to code for the last 3 years. I consider myself self-taught and I do like challenges and the satisfaction when I achieve them. I am constantly involved in projects and I push myself to become a little better . i believe that good habits, perseverance and constancy are key to grow in this career
 
 * 🌍  I'm based in Toronto Canada
-* 🖥️  See my portfolio at 
+* 🖥️  See my portfolio at [My portafolio](https://nanobit2019.github.io/Luis-Gomez-Portafolio-A/)
 * ✉️  You can contact me at [nanogomez.it@gmail.com](mailto:nanogomez.it@gmail.com )
 * 🚀  I'm currently working on [My portafolio](https://nanobit2019.github.io/Luis-Gomez-Portafolio-A/)
-* 🧠  I'm learning Java Script
+* 🧠  I'm learning Python
 * 🤝  I'm open to collaborating on any kind of project
 * ⚡  I'am a coffeeholic , you do not tell anyone
 
